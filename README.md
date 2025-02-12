@@ -5,7 +5,7 @@ This project demonstrates a simple **sensor fusion map** for an AadDAS syddstddd
 
 ## Features
 - Simulates GPS and Radar data.
-- Visualizes sensor fusion using a scatter plot.
+- Visualizes sensor fusion using a scatter plot.nnn
 
 ## Prerequisites
 - Python 3.8 or above
