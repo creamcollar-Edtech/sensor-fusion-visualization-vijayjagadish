@@ -1,6 +1,6 @@
 # Sensor Fusion Demo for ADAS test
 
-This project demonstrates a simple **sensor fusion map** for an AadDAS syddstem, test combinissnhellog test GPS and Radar data. testxx test
+This project demonstrates a simple **sensor fusion map** for an AadDAS syddstdddem, test combinissnhellog test GPS and Radar data. testxx test
 
 ## Features
 - Simulates GPS and Radar data.
